@@ -1,4 +1,4 @@
-Adds another thumbnail list for the 278 styles with (MUCH MUCH) more obvious representations of the styles provided. Just unzip in the proper folder. Drop-in thumbnails that are already named to match the styles in the txt.zip file.
+Adds another thumbnail list for the 278 styles with (MUCH MUCH) more obvious representations of the styles provided. Drop-in thumbnails that are already named to match the styles in the txt.zip file. You can find them in the png_2 folder.
 Happy generating !
 
 _Example thumbnails_
