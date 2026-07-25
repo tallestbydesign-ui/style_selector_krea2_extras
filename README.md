@@ -13,5 +13,6 @@ Happy generating !
 
 ## _NOTABLE CAVEAT_ : 
 
-There's a slight overabundance of monochrome generations, due to the method i used to generate the files which is img2img based at the start to help with composition and forcing the model outside of its comfort zone.
+There's a slight overabundance of monochrome generations, due to the <a href="[url](https://www.reddit.com/r/StableDiffusion/comments/1urmce7/comment/owh0bhs/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)" target="_blank"> method i used to generate the files</a> which is img2img based at the start to help with composition and forcing the model outside of its comfort zone.
+
 <img width="2050" height="1024" alt="image" src="https://github.com/user-attachments/assets/286ed641-b40f-4638-8bde-58f016c0c736" />
